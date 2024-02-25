@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/MarkTBSS/go-connectDatabase/config"
-	"github.com/MarkTBSS/go-connectDatabase/pkg/databases"
+	"github.com/MarkTBSS/040-connectDatabase/config"
+	"github.com/MarkTBSS/040-connectDatabase/pkg/databases"
 )
 
 func envPath() string {

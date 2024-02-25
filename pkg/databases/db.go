@@ -3,7 +3,7 @@ package databases
 import (
 	"log"
 
-	"github.com/MarkTBSS/go-connectDatabase/config"
+	"github.com/MarkTBSS/040-connectDatabase/config"
 	_ "github.com/jackc/pgx/v5/stdlib"
 	"github.com/jmoiron/sqlx"
 )
